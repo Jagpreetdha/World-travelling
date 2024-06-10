@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "67f2",
+      "cityName": "Vidisha",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-06T07:42:00.039Z",
+      "notes": "my home town",
+      "position": {
+        "lat": "23.68682626060143",
+        "lng": "77.80517578125"
+      }
+    },
+    {
+      "id": "e835",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-06T11:22:51.026Z",
+      "notes": "capital",
+      "position": {
+        "lat": "28.595498081275906",
+        "lng": "77.29980468750001"
+      }
+    },
+    {
+      "id": "6c39",
+      "cityName": "Ashti",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-06T11:49:05.932Z",
+      "notes": "",
+      "position": {
+        "lat": "21.271399246764542",
+        "lng": "78.15673828125001"
+      }
+    }
+  ]
+}
